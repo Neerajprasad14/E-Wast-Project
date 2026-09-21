@@ -1,0 +1,3 @@
+id,name,address,city,state,latitude,longitude,accepted_waste_types,pickup_available,verified,authorization_status,verification_source,last_verified,opening_hours,phone,email,website,rating
+demo-hyd-01,DEMO DATA - Hyderabad E-Waste Centre,Demo address only; replace using verified source,Hyderabad,Telangana,17.3850,78.4867,Laptop|Computer|Mobile Phone|Battery,true,false,UNKNOWN,,,Mon-Sat 09:00-17:00,,,,
+demo-blr-01,DEMO DATA - Bengaluru Recycler,Demo address only; replace using verified source,Bengaluru,Karnataka,12.9716,77.5946,Laptop|Computer|Monitor|PCB,false,false,UNKNOWN,,,Mon-Fri 09:00-17:00,,,,
